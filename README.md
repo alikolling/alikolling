@@ -20,6 +20,7 @@
 
 ### Education 🎓
 - Control and Automation Engineering Bachelor's Degree @ UFSM (2015 - 2023)
+- Computer Engineering Master's Degree @ FURG (2023 - present)
 
 ### Projects 🐾
 - [Parallel-Hydrone-DRL](https://github.com/alikolling/Parallel-Hydrone-DRL) - application of distributed distributional deep reinforcement learning on drones
